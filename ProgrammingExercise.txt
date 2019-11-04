@@ -1,0 +1,10 @@
+1	Status	Category	Description	Price		
+1	Discontinued	Clothing	Description 1	32.10
+1	Discounted	Hardware	Description 1	42.10
+1	Retail	Clothing	Description 1	31.10
+1	Discontinued	Clothing	Description 1	32.10
+1	Discounted	Hardware	Description 1	42.10
+1	Retail	Clothing	Description 1	31.10
+1	Discontinued	Clothing	Description 1	32.10
+1	Discounted	Hardware	Description 1	42.10
+1	Retail	Clothing	Description 1	31.10

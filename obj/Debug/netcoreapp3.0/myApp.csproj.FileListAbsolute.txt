@@ -1,0 +1,11 @@
+/home/remi/dotNet/myApp/obj/Debug/netcoreapp3.0/myApp.csprojAssemblyReference.cache
+/home/remi/dotNet/myApp/obj/Debug/netcoreapp3.0/myApp.AssemblyInfoInputs.cache
+/home/remi/dotNet/myApp/obj/Debug/netcoreapp3.0/myApp.AssemblyInfo.cs
+/home/remi/dotNet/myApp/bin/Debug/netcoreapp3.0/myApp
+/home/remi/dotNet/myApp/bin/Debug/netcoreapp3.0/myApp.deps.json
+/home/remi/dotNet/myApp/bin/Debug/netcoreapp3.0/myApp.runtimeconfig.json
+/home/remi/dotNet/myApp/bin/Debug/netcoreapp3.0/myApp.runtimeconfig.dev.json
+/home/remi/dotNet/myApp/bin/Debug/netcoreapp3.0/myApp.dll
+/home/remi/dotNet/myApp/bin/Debug/netcoreapp3.0/myApp.pdb
+/home/remi/dotNet/myApp/obj/Debug/netcoreapp3.0/myApp.dll
+/home/remi/dotNet/myApp/obj/Debug/netcoreapp3.0/myApp.pdb
